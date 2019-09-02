@@ -1,1 +1,1 @@
-# image-classifier-tfjs
+# Image Classifier with Tensorflow.js
